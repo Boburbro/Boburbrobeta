@@ -1,0 +1,5 @@
+Installing...
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Get:1 https://packages.termux.dev/apt/termux-main stable InRelease [14.0 kB]
